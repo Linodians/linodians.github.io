@@ -10,6 +10,8 @@ type: post
 
 When I use to work for Linode, I would travel around the country a lot. From hackathon to developer conference, I noticed many people didn't know how to pronounce Linode correctly. Even when they said it right, there was hesitation because they weren't sure.
 
+<!--more-->
+
 Here's a quick audio clip with the correct pronunciation of "Linode":
 
 <audio controls>
