@@ -51,32 +51,32 @@ So there's that.
 
 ### Dashboard
 
-{{< figure src="/assets/img/posts/new-manager-main-dashboard.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-main-dashboard.png" alt="New Linode Manager Dashboard" >}}
 
 ### Add Linode Page
 
-{{< figure src="/assets/img/posts/new-manager-add-linode.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-add-linode.png" alt="New Add Linode Page" >}}
 
 ### View Linode Page
 
-{{< figure src="/assets/img/posts/new-manager-linode.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-linode.png" alt="New Linode View Page" >}}
 
 ### Linode Images
 
-{{< figure src="/assets/img/posts/new-manager-linode-images.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-linode-images.png" alt="New Linode Images Page" >}}
 
 ### NodeBalancers
 
-{{< figure src="/assets/img/posts/new-manager-nodebalancers.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-nodebalancers.png" alt="New NodeBalancers Page" >}}
 
 ### Domains
 
-{{< figure src="/assets/img/posts/new-manager-domains.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-domains.png" alt="New Linode Domains Page" >}}
 
 ### Notifications
 
-{{< figure src="/assets/img/posts/new-manager-notifications.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-notifications.png" alt="New Notifications Feature" >}}
 
 ### User Menu
 
-{{< figure src="/assets/img/posts/new-manager-menu-dropdown.png" alt="" >}}
+{{< figure src="/assets/img/posts/new-manager-menu-dropdown.png" alt="New User Menu Dropdown" >}}
